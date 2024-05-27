@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Mountra
 
 Mountra adalah sebuah proyek website hiking yang memiliki desain antarmuka yang menarik dan responsif, yang dikembangkan dengan menggunakan framework ReactJS. Desain UI ini dirancang dengan tujuan memberikan pengalaman pengguna yang intuitif dan menyenangkan dalam menjelajahi berbagai fitur yang disediakan oleh website ini. Pengguna dapat dengan mudah mengakses informasi tentang jalur hiking, rute, pemandangan, perlengkapan yang dibutuhkan, dan tips keselamatan dengan tampilan yang menarik. Selain itu, proyek ini juga menawarkan fitur-fitur interaktif seperti pencarian jalur hiking, filter, dan penilaian pengguna, yang semuanya dirancang dengan menggunakan konsep desain UI terbaik. Dengan menggunakan ReactJS, proyek "Mountra" dengan desain UI yang menarik memastikan bahwa para pengguna mendapatkan pengalaman yang mulus dan responsif saat menjelajahi website ini.
