@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hiking-advisor/static/css/main.2608174f.css",
+    "main.js": "/hiking-advisor/static/js/main.fc238dbe.js",
+    "static/media/video (2).mp4": "/hiking-advisor/static/media/video (2).cb8cc8a8f489421d1c69.mp4",
+    "static/media/video.mp4": "/hiking-advisor/static/media/video.7246cf118f5383f28586.mp4",
+    "static/media/img (3).jpg": "/hiking-advisor/static/media/img (3).cc66b84d8af70aa84a77.jpg",
+    "static/media/img (5).jpg": "/hiking-advisor/static/media/img (5).dd166e5768659dc768b3.jpg",
+    "static/media/img (4).jpg": "/hiking-advisor/static/media/img (4).cea71cac893cc49e75eb.jpg",
+    "static/media/img (7).jpg": "/hiking-advisor/static/media/img (7).9428c2ab2d1c6bb9fcc3.jpg",
+    "static/media/img (6).jpg": "/hiking-advisor/static/media/img (6).ae143ad4dc4a5709101a.jpg",
+    "static/media/img (2).jpg": "/hiking-advisor/static/media/img (2).85c1e42a90d718d93f29.jpg",
+    "static/media/img (1).jpg": "/hiking-advisor/static/media/img (1).3606435e86e95249827a.jpg",
+    "static/media/img (8).jpg": "/hiking-advisor/static/media/img (8).de3ebffd3007ad57dbdc.jpg",
+    "static/media/img (9).jpg": "/hiking-advisor/static/media/img (9).04ccbacf635622ed0f69.jpg",
+    "index.html": "/hiking-advisor/index.html",
+    "main.2608174f.css.map": "/hiking-advisor/static/css/main.2608174f.css.map",
+    "main.fc238dbe.js.map": "/hiking-advisor/static/js/main.fc238dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2608174f.css",
+    "static/js/main.fc238dbe.js"
+  ]
+}
